@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StarkAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25030b3db703e3566865995705f316b58e030077")]
 [assembly: System.Reflection.AssemblyProductAttribute("StarkAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StarkAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
