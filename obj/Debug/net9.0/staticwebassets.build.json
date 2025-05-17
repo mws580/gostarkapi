@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "M9SzLUeBUls35FCYHxrO3oopmHNY4uD+XNKsu3hwhGg=",
+  "Source": "StarkAPI",
+  "BasePath": "_content/StarkAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
