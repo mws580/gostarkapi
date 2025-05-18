@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("e39bd8ce-d34e-43b1-a3b4-874d98ea668f")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("StarkAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25030b3db703e3566865995705f316b58e030077")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cab7d2d6fa8fd39490c28c659adfdba788666ea7")]
 [assembly: System.Reflection.AssemblyProductAttribute("StarkAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StarkAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

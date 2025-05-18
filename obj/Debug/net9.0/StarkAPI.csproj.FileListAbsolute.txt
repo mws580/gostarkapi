@@ -31,3 +31,9 @@ C:\1Stark\StarkAPI\obj\Debug\net9.0\refint\StarkAPI.dll
 C:\1Stark\StarkAPI\obj\Debug\net9.0\StarkAPI.pdb
 C:\1Stark\StarkAPI\obj\Debug\net9.0\StarkAPI.genruntimeconfig.cache
 C:\1Stark\StarkAPI\obj\Debug\net9.0\ref\StarkAPI.dll
+C:\1Stark\StarkAPI\obj\Debug\net9.0\StarkAPI.sourcelink.json
+C:\1Stark\StarkAPI\bin\Debug\net9.0\Azure.Core.dll
+C:\1Stark\StarkAPI\bin\Debug\net9.0\Azure.Data.Tables.dll
+C:\1Stark\StarkAPI\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\1Stark\StarkAPI\bin\Debug\net9.0\System.ClientModel.dll
+C:\1Stark\StarkAPI\bin\Debug\net9.0\System.Memory.Data.dll
