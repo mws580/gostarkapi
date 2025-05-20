@@ -18,7 +18,7 @@ namespace StarkAPI.Controllers
                 new Joke { PartitionKey = "1", RowKey = "1", Leadin = "Why did the chicken cross the road?", Hit = "To get to the other side!", Category = "Animal" },
                 new Joke { PartitionKey = "2", RowKey = "2", Leadin = "What do you call a fake noodle?", Hit = "An impasta!", Category = "Food" }
             };
-      var _jokeService = new DataService(configuration);
+            var _jokeService = new DataService(configuration);
              jokes = await _jokeService.GetJokes("DadJokes");
             return Ok(jokes);
         }
