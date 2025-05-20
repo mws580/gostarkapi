@@ -34,7 +34,7 @@ namespace StarkAPI.Data
                     RowKey = entity.RowKey,
                     Leadin = entity.GetString("leadin"),
                     Hit = entity.GetString("hit"),
-                    Category = entity.GetString("catgory")
+                    Category = entity.GetString("category")
                     // Add other properties as needed
                 };
                 entities.Add(joke);
