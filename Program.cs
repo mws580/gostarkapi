@@ -17,7 +17,7 @@ if (app.Environment.IsDevelopment())
 
 // Map controller endpoints
 app.MapControllers();
-
+app.UseCors();
 var summaries = new[]
 {
     "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StarkAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cc7dbd4db732ef043cbd10fe628b8080329c224")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15c9550f2a0a713343548a0b0b9013e4333f74e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("StarkAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StarkAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
